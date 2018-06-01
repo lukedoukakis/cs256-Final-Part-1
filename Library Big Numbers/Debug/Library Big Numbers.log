@@ -1,0 +1,28 @@
+﻿  Library Big Numbers.cpp
+c:\users\luke\desktop\2017 cpp\library big numbers\library big numbers\library big numbers.h(18): warning C4018: '<': signed/unsigned mismatch
+c:\users\luke\desktop\2017 cpp\library big numbers\library big numbers\library big numbers.h(35): warning C4018: '>=': signed/unsigned mismatch
+c:\users\luke\desktop\2017 cpp\library big numbers\library big numbers\library big numbers.h(52): warning C4018: '>=': signed/unsigned mismatch
+c:\users\luke\desktop\2017 cpp\library big numbers\library big numbers\library big numbers.h(79): warning C4018: '>=': signed/unsigned mismatch
+c:\users\luke\desktop\2017 cpp\library big numbers\library big numbers\library big numbers.h(95): warning C4018: '>': signed/unsigned mismatch
+c:\users\luke\desktop\2017 cpp\library big numbers\library big numbers\library big numbers.h(133): error C2664: 'std::_Vector_iterator<std::_Vector_val<std::_Simple_types<_Ty>>> std::vector<_Ty,std::allocator<_Ty>>::insert(std::_Vector_const_iterator<std::_Vector_val<std::_Simple_types<_Ty>>>,std::initializer_list<_Ty>)': cannot convert argument 2 from 'LibraryBigNumbers::BigNumbers *' to 'const LibraryBigNumbers::BigNumbers &'
+          with
+          [
+              _Ty=LibraryBigNumbers::BigNumbers
+          ]
+  c:\users\luke\desktop\2017 cpp\library big numbers\library big numbers\library big numbers.h(133): note: Reason: cannot convert from 'LibraryBigNumbers::BigNumbers *' to 'const LibraryBigNumbers::BigNumbers'
+  c:\users\luke\desktop\2017 cpp\library big numbers\library big numbers\library big numbers.h(133): note: No user-defined-conversion operator available that can perform this conversion, or the operator cannot be called
+c:\users\luke\desktop\2017 cpp\library big numbers\library big numbers\library big numbers.h(135): warning C4018: '<': signed/unsigned mismatch
+c:\users\luke\desktop\2017 cpp\library big numbers\library big numbers\library big numbers.h(136): error C2661: 'std::vector<int,std::allocator<_Ty>>::insert': no overloaded function takes 1 arguments
+          with
+          [
+              _Ty=int
+          ]
+c:\users\luke\desktop\2017 cpp\library big numbers\library big numbers\library big numbers.h(141): warning C4018: '<': signed/unsigned mismatch
+c:\users\luke\desktop\2017 cpp\library big numbers\library big numbers\library big numbers.h(163): warning C4018: '<': signed/unsigned mismatch
+c:\users\luke\desktop\2017 cpp\library big numbers\library big numbers\library big numbers.h(164): warning C4244: '+=': conversion from 'double' to 'int', possible loss of data
+c:\users\luke\desktop\2017 cpp\library big numbers\library big numbers\library big numbers.h(168): warning C4018: '<': signed/unsigned mismatch
+c:\users\luke\desktop\2017 cpp\library big numbers\library big numbers\library big numbers.h(169): warning C4244: '+=': conversion from 'double' to 'int', possible loss of data
+c:\users\luke\desktop\2017 cpp\library big numbers\library big numbers\library big numbers.h(190): warning C4018: '<': signed/unsigned mismatch
+c:\users\luke\desktop\2017 cpp\library big numbers\library big numbers\library big numbers.h(191): warning C4244: '+=': conversion from 'double' to 'int', possible loss of data
+c:\users\luke\desktop\2017 cpp\library big numbers\library big numbers\library big numbers.h(195): warning C4018: '<': signed/unsigned mismatch
+c:\users\luke\desktop\2017 cpp\library big numbers\library big numbers\library big numbers.h(196): warning C4244: '+=': conversion from 'double' to 'int', possible loss of data
