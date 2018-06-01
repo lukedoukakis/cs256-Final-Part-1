@@ -1,0 +1,50 @@
+<?xml version='1.0' encoding='UTF-8' standalone='no'?>
+<doxygenindex xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="index.xsd" version="1.8.14">
+  <compound refid="class_library_big_numbers_1_1_big_numbers" kind="class"><name>LibraryBigNumbers::BigNumbers</name>
+    <member refid="class_library_big_numbers_1_1_big_numbers_1ae550a59baff8ecb4c7dc43afb69a1333" kind="variable"><name>digits</name></member>
+    <member refid="class_library_big_numbers_1_1_big_numbers_1ab7f8aed21b7c7d7a439c54518b61f931" kind="function"><name>BigNumbers</name></member>
+    <member refid="class_library_big_numbers_1_1_big_numbers_1a9b0e990b9f58addeded4b4159da0bc25" kind="function"><name>BigNumbers</name></member>
+    <member refid="class_library_big_numbers_1_1_big_numbers_1ab654de80048eb9d507c69a3c8f55d4f5" kind="function"><name>BigNumbers ::operator+</name></member>
+    <member refid="class_library_big_numbers_1_1_big_numbers_1a0be1b620dbaa2f05b41a1e1415d632d4" kind="function"><name>BigNumbers ::operator-</name></member>
+    <member refid="class_library_big_numbers_1_1_big_numbers_1ac77d3baf4aebba44cc3d6b76a7550ac3" kind="function"><name>BigNumbers ::operator*</name></member>
+    <member refid="class_library_big_numbers_1_1_big_numbers_1a85420d0c136afc0bdee74808b1813c38" kind="function"><name>BigNumbers ::operator/</name></member>
+    <member refid="class_library_big_numbers_1_1_big_numbers_1a834e4be48581b2a473b863733f0beca3" kind="function"><name>BigNumbers ::operator%</name></member>
+    <member refid="class_library_big_numbers_1_1_big_numbers_1a25554e6ecaea3b4c13e69ead5836dbc3" kind="function"><name>add</name></member>
+    <member refid="class_library_big_numbers_1_1_big_numbers_1adcb9faacabfdcb68d300cec650a7e17c" kind="function"><name>subtract</name></member>
+    <member refid="class_library_big_numbers_1_1_big_numbers_1aaca44f51cc9432ab3a4ca4708adf3c52" kind="function"><name>multiply</name></member>
+    <member refid="class_library_big_numbers_1_1_big_numbers_1a356a464bd960df009aa905ca071684b4" kind="function"><name>divide</name></member>
+    <member refid="class_library_big_numbers_1_1_big_numbers_1a2df2e777f515bd4ddbc443bb8ff17516" kind="function"><name>mod</name></member>
+  </compound>
+  <compound refid="namespace_library_big_numbers" kind="namespace"><name>LibraryBigNumbers</name>
+  </compound>
+  <compound refid="namespacestd" kind="namespace"><name>std</name>
+  </compound>
+  <compound refid="namespace_system" kind="namespace"><name>System</name>
+  </compound>
+  <compound refid="namespace_system_1_1_reflection" kind="namespace"><name>System::Reflection</name>
+  </compound>
+  <compound refid="namespace_system_1_1_runtime_1_1_compiler_services" kind="namespace"><name>System::Runtime::CompilerServices</name>
+  </compound>
+  <compound refid="namespace_system_1_1_runtime_1_1_interop_services" kind="namespace"><name>System::Runtime::InteropServices</name>
+  </compound>
+  <compound refid="namespace_system_1_1_security_1_1_permissions" kind="namespace"><name>System::Security::Permissions</name>
+  </compound>
+  <compound refid="_assembly_info_8cpp" kind="file"><name>AssemblyInfo.cpp</name>
+  </compound>
+  <compound refid="_library_01_big_01_numbers_8cpp" kind="file"><name>Library Big Numbers.cpp</name>
+  </compound>
+  <compound refid="_library_01_big_01_numbers_8h" kind="file"><name>Library Big Numbers.h</name>
+  </compound>
+  <compound refid="_resource_8h" kind="file"><name>Resource.h</name>
+  </compound>
+  <compound refid="stdafx_8cpp" kind="file"><name>stdafx.cpp</name>
+  </compound>
+  <compound refid="stdafx_8h" kind="file"><name>stdafx.h</name>
+  </compound>
+  <compound refid="dir_c58fee3c52a2fbb34b4f730250ace68c" kind="dir"><name>C:/Users/Luke/Desktop/2017 cpp</name>
+  </compound>
+  <compound refid="dir_190080b0ea145dfb49cf00674f7a1f80" kind="dir"><name>C:/Users/Luke/Desktop/2017 cpp/Library Big Numbers/Library Big Numbers</name>
+  </compound>
+  <compound refid="dir_32c9e2f5e7266d70bf0a1e12868138cb" kind="dir"><name>C:/Users/Luke/Desktop/2017 cpp/Library Big Numbers</name>
+  </compound>
+</doxygenindex>

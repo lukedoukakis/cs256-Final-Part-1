@@ -1,0 +1,12 @@
+<?xml version='1.0' encoding='UTF-8' standalone='no'?>
+<doxygen xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="compound.xsd" version="1.8.14">
+  <compounddef id="namespace_library_big_numbers" kind="namespace" language="C++">
+    <compoundname>LibraryBigNumbers</compoundname>
+    <innerclass refid="class_library_big_numbers_1_1_big_numbers" prot="public">LibraryBigNumbers::BigNumbers</innerclass>
+    <briefdescription>
+    </briefdescription>
+    <detaileddescription>
+    </detaileddescription>
+    <location file="C:/Users/Luke/Desktop/2017 cpp/Library Big Numbers/Library Big Numbers/Library Big Numbers.h" line="7" column="1"/>
+  </compounddef>
+</doxygen>

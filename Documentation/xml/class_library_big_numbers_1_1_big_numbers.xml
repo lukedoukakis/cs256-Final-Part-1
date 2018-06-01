@@ -1,0 +1,265 @@
+<?xml version='1.0' encoding='UTF-8' standalone='no'?>
+<doxygen xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="compound.xsd" version="1.8.14">
+  <compounddef id="class_library_big_numbers_1_1_big_numbers" kind="class" language="C++" prot="public">
+    <compoundname>LibraryBigNumbers::BigNumbers</compoundname>
+      <sectiondef kind="public-attrib">
+      <memberdef kind="variable" id="class_library_big_numbers_1_1_big_numbers_1ae550a59baff8ecb4c7dc43afb69a1333" prot="public" static="no" mutable="no">
+        <type>vector&lt; int &gt;</type>
+        <definition>vector&lt;int&gt; LibraryBigNumbers::BigNumbers::digits</definition>
+        <argsstring></argsstring>
+        <name>digits</name>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="C:/Users/Luke/Desktop/2017 cpp/Library Big Numbers/Library Big Numbers/Library Big Numbers.h" line="13" column="1" bodyfile="C:/Users/Luke/Desktop/2017 cpp/Library Big Numbers/Library Big Numbers/Library Big Numbers.h" bodystart="13" bodyend="-1"/>
+      </memberdef>
+      </sectiondef>
+      <sectiondef kind="public-func">
+      <memberdef kind="function" id="class_library_big_numbers_1_1_big_numbers_1ab7f8aed21b7c7d7a439c54518b61f931" prot="public" static="no" const="no" explicit="no" inline="yes" virt="non-virtual">
+        <type></type>
+        <definition>LibraryBigNumbers::BigNumbers::BigNumbers</definition>
+        <argsstring>(vector&lt; int &gt; _digits)</argsstring>
+        <name>BigNumbers</name>
+        <param>
+          <type>vector&lt; int &gt;</type>
+          <declname>_digits</declname>
+        </param>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="C:/Users/Luke/Desktop/2017 cpp/Library Big Numbers/Library Big Numbers/Library Big Numbers.h" line="17" column="1" bodyfile="C:/Users/Luke/Desktop/2017 cpp/Library Big Numbers/Library Big Numbers/Library Big Numbers.h" bodystart="17" bodyend="21"/>
+      </memberdef>
+      <memberdef kind="function" id="class_library_big_numbers_1_1_big_numbers_1a9b0e990b9f58addeded4b4159da0bc25" prot="public" static="no" const="no" explicit="no" inline="yes" virt="non-virtual">
+        <type></type>
+        <definition>LibraryBigNumbers::BigNumbers::BigNumbers</definition>
+        <argsstring>()</argsstring>
+        <name>BigNumbers</name>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="C:/Users/Luke/Desktop/2017 cpp/Library Big Numbers/Library Big Numbers/Library Big Numbers.h" line="23" column="1" bodyfile="C:/Users/Luke/Desktop/2017 cpp/Library Big Numbers/Library Big Numbers/Library Big Numbers.h" bodystart="23" bodyend="23"/>
+      </memberdef>
+      <memberdef kind="function" id="class_library_big_numbers_1_1_big_numbers_1ab654de80048eb9d507c69a3c8f55d4f5" prot="public" static="no" const="no" explicit="no" inline="yes" virt="non-virtual">
+        <type><ref refid="class_library_big_numbers_1_1_big_numbers" kindref="compound">BigNumbers</ref></type>
+        <definition>BigNumbers LibraryBigNumbers::BigNumbers::BigNumbers ::operator+</definition>
+        <argsstring>(BigNumbers a)</argsstring>
+        <name>BigNumbers ::operator+</name>
+        <param>
+          <type><ref refid="class_library_big_numbers_1_1_big_numbers" kindref="compound">BigNumbers</ref></type>
+          <declname>a</declname>
+        </param>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="C:/Users/Luke/Desktop/2017 cpp/Library Big Numbers/Library Big Numbers/Library Big Numbers.h" line="189" column="1" bodyfile="C:/Users/Luke/Desktop/2017 cpp/Library Big Numbers/Library Big Numbers/Library Big Numbers.h" bodystart="189" bodyend="192"/>
+      </memberdef>
+      <memberdef kind="function" id="class_library_big_numbers_1_1_big_numbers_1a0be1b620dbaa2f05b41a1e1415d632d4" prot="public" static="no" const="no" explicit="no" inline="yes" virt="non-virtual">
+        <type><ref refid="class_library_big_numbers_1_1_big_numbers" kindref="compound">BigNumbers</ref></type>
+        <definition>BigNumbers LibraryBigNumbers::BigNumbers::BigNumbers ::operator-</definition>
+        <argsstring>(BigNumbers a)</argsstring>
+        <name>BigNumbers ::operator-</name>
+        <param>
+          <type><ref refid="class_library_big_numbers_1_1_big_numbers" kindref="compound">BigNumbers</ref></type>
+          <declname>a</declname>
+        </param>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="C:/Users/Luke/Desktop/2017 cpp/Library Big Numbers/Library Big Numbers/Library Big Numbers.h" line="194" column="1" bodyfile="C:/Users/Luke/Desktop/2017 cpp/Library Big Numbers/Library Big Numbers/Library Big Numbers.h" bodystart="194" bodyend="197"/>
+      </memberdef>
+      <memberdef kind="function" id="class_library_big_numbers_1_1_big_numbers_1ac77d3baf4aebba44cc3d6b76a7550ac3" prot="public" static="no" const="no" explicit="no" inline="yes" virt="non-virtual">
+        <type><ref refid="class_library_big_numbers_1_1_big_numbers" kindref="compound">BigNumbers</ref></type>
+        <definition>BigNumbers LibraryBigNumbers::BigNumbers::BigNumbers ::operator*</definition>
+        <argsstring>(BigNumbers a)</argsstring>
+        <name>BigNumbers ::operator*</name>
+        <param>
+          <type><ref refid="class_library_big_numbers_1_1_big_numbers" kindref="compound">BigNumbers</ref></type>
+          <declname>a</declname>
+        </param>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="C:/Users/Luke/Desktop/2017 cpp/Library Big Numbers/Library Big Numbers/Library Big Numbers.h" line="199" column="1" bodyfile="C:/Users/Luke/Desktop/2017 cpp/Library Big Numbers/Library Big Numbers/Library Big Numbers.h" bodystart="199" bodyend="202"/>
+      </memberdef>
+      <memberdef kind="function" id="class_library_big_numbers_1_1_big_numbers_1a85420d0c136afc0bdee74808b1813c38" prot="public" static="no" const="no" explicit="no" inline="yes" virt="non-virtual">
+        <type><ref refid="class_library_big_numbers_1_1_big_numbers" kindref="compound">BigNumbers</ref></type>
+        <definition>BigNumbers LibraryBigNumbers::BigNumbers::BigNumbers ::operator/</definition>
+        <argsstring>(BigNumbers a)</argsstring>
+        <name>BigNumbers ::operator/</name>
+        <param>
+          <type><ref refid="class_library_big_numbers_1_1_big_numbers" kindref="compound">BigNumbers</ref></type>
+          <declname>a</declname>
+        </param>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="C:/Users/Luke/Desktop/2017 cpp/Library Big Numbers/Library Big Numbers/Library Big Numbers.h" line="204" column="1" bodyfile="C:/Users/Luke/Desktop/2017 cpp/Library Big Numbers/Library Big Numbers/Library Big Numbers.h" bodystart="204" bodyend="207"/>
+      </memberdef>
+      <memberdef kind="function" id="class_library_big_numbers_1_1_big_numbers_1a834e4be48581b2a473b863733f0beca3" prot="public" static="no" const="no" explicit="no" inline="yes" virt="non-virtual">
+        <type><ref refid="class_library_big_numbers_1_1_big_numbers" kindref="compound">BigNumbers</ref></type>
+        <definition>BigNumbers LibraryBigNumbers::BigNumbers::BigNumbers ::operator%</definition>
+        <argsstring>(BigNumbers a)</argsstring>
+        <name>BigNumbers ::operator%</name>
+        <param>
+          <type><ref refid="class_library_big_numbers_1_1_big_numbers" kindref="compound">BigNumbers</ref></type>
+          <declname>a</declname>
+        </param>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="C:/Users/Luke/Desktop/2017 cpp/Library Big Numbers/Library Big Numbers/Library Big Numbers.h" line="209" column="1" bodyfile="C:/Users/Luke/Desktop/2017 cpp/Library Big Numbers/Library Big Numbers/Library Big Numbers.h" bodystart="209" bodyend="212"/>
+      </memberdef>
+      </sectiondef>
+      <sectiondef kind="public-static-func">
+      <memberdef kind="function" id="class_library_big_numbers_1_1_big_numbers_1a25554e6ecaea3b4c13e69ead5836dbc3" prot="public" static="yes" const="no" explicit="no" inline="yes" virt="non-virtual">
+        <type><ref refid="class_library_big_numbers_1_1_big_numbers" kindref="compound">BigNumbers</ref></type>
+        <definition>static BigNumbers LibraryBigNumbers::BigNumbers::add</definition>
+        <argsstring>(BigNumbers a, BigNumbers b)</argsstring>
+        <name>add</name>
+        <param>
+          <type><ref refid="class_library_big_numbers_1_1_big_numbers" kindref="compound">BigNumbers</ref></type>
+          <declname>a</declname>
+        </param>
+        <param>
+          <type><ref refid="class_library_big_numbers_1_1_big_numbers" kindref="compound">BigNumbers</ref></type>
+          <declname>b</declname>
+        </param>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="C:/Users/Luke/Desktop/2017 cpp/Library Big Numbers/Library Big Numbers/Library Big Numbers.h" line="28" column="1" bodyfile="C:/Users/Luke/Desktop/2017 cpp/Library Big Numbers/Library Big Numbers/Library Big Numbers.h" bodystart="28" bodyend="49"/>
+      </memberdef>
+      <memberdef kind="function" id="class_library_big_numbers_1_1_big_numbers_1adcb9faacabfdcb68d300cec650a7e17c" prot="public" static="yes" const="no" explicit="no" inline="yes" virt="non-virtual">
+        <type><ref refid="class_library_big_numbers_1_1_big_numbers" kindref="compound">BigNumbers</ref></type>
+        <definition>static BigNumbers LibraryBigNumbers::BigNumbers::subtract</definition>
+        <argsstring>(BigNumbers a, BigNumbers b)</argsstring>
+        <name>subtract</name>
+        <param>
+          <type><ref refid="class_library_big_numbers_1_1_big_numbers" kindref="compound">BigNumbers</ref></type>
+          <declname>a</declname>
+        </param>
+        <param>
+          <type><ref refid="class_library_big_numbers_1_1_big_numbers" kindref="compound">BigNumbers</ref></type>
+          <declname>b</declname>
+        </param>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="C:/Users/Luke/Desktop/2017 cpp/Library Big Numbers/Library Big Numbers/Library Big Numbers.h" line="54" column="1" bodyfile="C:/Users/Luke/Desktop/2017 cpp/Library Big Numbers/Library Big Numbers/Library Big Numbers.h" bodystart="54" bodyend="100"/>
+      </memberdef>
+      <memberdef kind="function" id="class_library_big_numbers_1_1_big_numbers_1aaca44f51cc9432ab3a4ca4708adf3c52" prot="public" static="yes" const="no" explicit="no" inline="yes" virt="non-virtual">
+        <type><ref refid="class_library_big_numbers_1_1_big_numbers" kindref="compound">BigNumbers</ref></type>
+        <definition>static BigNumbers LibraryBigNumbers::BigNumbers::multiply</definition>
+        <argsstring>(BigNumbers a, BigNumbers b)</argsstring>
+        <name>multiply</name>
+        <param>
+          <type><ref refid="class_library_big_numbers_1_1_big_numbers" kindref="compound">BigNumbers</ref></type>
+          <declname>a</declname>
+        </param>
+        <param>
+          <type><ref refid="class_library_big_numbers_1_1_big_numbers" kindref="compound">BigNumbers</ref></type>
+          <declname>b</declname>
+        </param>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="C:/Users/Luke/Desktop/2017 cpp/Library Big Numbers/Library Big Numbers/Library Big Numbers.h" line="105" column="1" bodyfile="C:/Users/Luke/Desktop/2017 cpp/Library Big Numbers/Library Big Numbers/Library Big Numbers.h" bodystart="105" bodyend="126"/>
+      </memberdef>
+      <memberdef kind="function" id="class_library_big_numbers_1_1_big_numbers_1a356a464bd960df009aa905ca071684b4" prot="public" static="yes" const="no" explicit="no" inline="yes" virt="non-virtual">
+        <type><ref refid="class_library_big_numbers_1_1_big_numbers" kindref="compound">BigNumbers</ref></type>
+        <definition>static BigNumbers LibraryBigNumbers::BigNumbers::divide</definition>
+        <argsstring>(BigNumbers a, BigNumbers b)</argsstring>
+        <name>divide</name>
+        <param>
+          <type><ref refid="class_library_big_numbers_1_1_big_numbers" kindref="compound">BigNumbers</ref></type>
+          <declname>a</declname>
+        </param>
+        <param>
+          <type><ref refid="class_library_big_numbers_1_1_big_numbers" kindref="compound">BigNumbers</ref></type>
+          <declname>b</declname>
+        </param>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="C:/Users/Luke/Desktop/2017 cpp/Library Big Numbers/Library Big Numbers/Library Big Numbers.h" line="132" column="1" bodyfile="C:/Users/Luke/Desktop/2017 cpp/Library Big Numbers/Library Big Numbers/Library Big Numbers.h" bodystart="132" bodyend="161"/>
+      </memberdef>
+      <memberdef kind="function" id="class_library_big_numbers_1_1_big_numbers_1a2df2e777f515bd4ddbc443bb8ff17516" prot="public" static="yes" const="no" explicit="no" inline="yes" virt="non-virtual">
+        <type><ref refid="class_library_big_numbers_1_1_big_numbers" kindref="compound">BigNumbers</ref></type>
+        <definition>static BigNumbers LibraryBigNumbers::BigNumbers::mod</definition>
+        <argsstring>(BigNumbers a, BigNumbers b)</argsstring>
+        <name>mod</name>
+        <param>
+          <type><ref refid="class_library_big_numbers_1_1_big_numbers" kindref="compound">BigNumbers</ref></type>
+          <declname>a</declname>
+        </param>
+        <param>
+          <type><ref refid="class_library_big_numbers_1_1_big_numbers" kindref="compound">BigNumbers</ref></type>
+          <declname>b</declname>
+        </param>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="C:/Users/Luke/Desktop/2017 cpp/Library Big Numbers/Library Big Numbers/Library Big Numbers.h" line="163" column="1" bodyfile="C:/Users/Luke/Desktop/2017 cpp/Library Big Numbers/Library Big Numbers/Library Big Numbers.h" bodystart="163" bodyend="184"/>
+      </memberdef>
+      </sectiondef>
+    <briefdescription>
+    </briefdescription>
+    <detaileddescription>
+    </detaileddescription>
+    <location file="C:/Users/Luke/Desktop/2017 cpp/Library Big Numbers/Library Big Numbers/Library Big Numbers.h" line="9" column="1" bodyfile="C:/Users/Luke/Desktop/2017 cpp/Library Big Numbers/Library Big Numbers/Library Big Numbers.h" bodystart="9" bodyend="214"/>
+    <listofallmembers>
+      <member refid="class_library_big_numbers_1_1_big_numbers_1a25554e6ecaea3b4c13e69ead5836dbc3" prot="public" virt="non-virtual"><scope>LibraryBigNumbers::BigNumbers</scope><name>add</name></member>
+      <member refid="class_library_big_numbers_1_1_big_numbers_1ab7f8aed21b7c7d7a439c54518b61f931" prot="public" virt="non-virtual"><scope>LibraryBigNumbers::BigNumbers</scope><name>BigNumbers</name></member>
+      <member refid="class_library_big_numbers_1_1_big_numbers_1a9b0e990b9f58addeded4b4159da0bc25" prot="public" virt="non-virtual"><scope>LibraryBigNumbers::BigNumbers</scope><name>BigNumbers</name></member>
+      <member refid="class_library_big_numbers_1_1_big_numbers_1a834e4be48581b2a473b863733f0beca3" prot="public" virt="non-virtual"><scope>LibraryBigNumbers::BigNumbers</scope><name>BigNumbers ::operator%</name></member>
+      <member refid="class_library_big_numbers_1_1_big_numbers_1ac77d3baf4aebba44cc3d6b76a7550ac3" prot="public" virt="non-virtual"><scope>LibraryBigNumbers::BigNumbers</scope><name>BigNumbers ::operator*</name></member>
+      <member refid="class_library_big_numbers_1_1_big_numbers_1ab654de80048eb9d507c69a3c8f55d4f5" prot="public" virt="non-virtual"><scope>LibraryBigNumbers::BigNumbers</scope><name>BigNumbers ::operator+</name></member>
+      <member refid="class_library_big_numbers_1_1_big_numbers_1a0be1b620dbaa2f05b41a1e1415d632d4" prot="public" virt="non-virtual"><scope>LibraryBigNumbers::BigNumbers</scope><name>BigNumbers ::operator-</name></member>
+      <member refid="class_library_big_numbers_1_1_big_numbers_1a85420d0c136afc0bdee74808b1813c38" prot="public" virt="non-virtual"><scope>LibraryBigNumbers::BigNumbers</scope><name>BigNumbers ::operator/</name></member>
+      <member refid="class_library_big_numbers_1_1_big_numbers_1ae550a59baff8ecb4c7dc43afb69a1333" prot="public" virt="non-virtual"><scope>LibraryBigNumbers::BigNumbers</scope><name>digits</name></member>
+      <member refid="class_library_big_numbers_1_1_big_numbers_1a356a464bd960df009aa905ca071684b4" prot="public" virt="non-virtual"><scope>LibraryBigNumbers::BigNumbers</scope><name>divide</name></member>
+      <member refid="class_library_big_numbers_1_1_big_numbers_1a2df2e777f515bd4ddbc443bb8ff17516" prot="public" virt="non-virtual"><scope>LibraryBigNumbers::BigNumbers</scope><name>mod</name></member>
+      <member refid="class_library_big_numbers_1_1_big_numbers_1aaca44f51cc9432ab3a4ca4708adf3c52" prot="public" virt="non-virtual"><scope>LibraryBigNumbers::BigNumbers</scope><name>multiply</name></member>
+      <member refid="class_library_big_numbers_1_1_big_numbers_1adcb9faacabfdcb68d300cec650a7e17c" prot="public" virt="non-virtual"><scope>LibraryBigNumbers::BigNumbers</scope><name>subtract</name></member>
+    </listofallmembers>
+  </compounddef>
+</doxygen>

@@ -1,0 +1,17 @@
+<?xml version='1.0' encoding='UTF-8' standalone='no'?>
+<doxygen xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="compound.xsd" version="1.8.14">
+  <compounddef id="dir_190080b0ea145dfb49cf00674f7a1f80" kind="dir">
+    <compoundname>C:/Users/Luke/Desktop/2017 cpp/Library Big Numbers/Library Big Numbers</compoundname>
+    <innerfile refid="_assembly_info_8cpp">AssemblyInfo.cpp</innerfile>
+    <innerfile refid="_library_01_big_01_numbers_8cpp">Library Big Numbers.cpp</innerfile>
+    <innerfile refid="_library_01_big_01_numbers_8h">Library Big Numbers.h</innerfile>
+    <innerfile refid="_resource_8h">Resource.h</innerfile>
+    <innerfile refid="stdafx_8cpp">stdafx.cpp</innerfile>
+    <innerfile refid="stdafx_8h">stdafx.h</innerfile>
+    <briefdescription>
+    </briefdescription>
+    <detaileddescription>
+    </detaileddescription>
+    <location file="C:/Users/Luke/Desktop/2017 cpp/Library Big Numbers/Library Big Numbers/"/>
+  </compounddef>
+</doxygen>
